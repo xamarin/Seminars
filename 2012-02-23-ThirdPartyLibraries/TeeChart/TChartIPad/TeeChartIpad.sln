@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeChartIpad", "TeeChartIpad.csproj", "{2CD9A309-0E33-485E-A902-C34213F552B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhone.Build.0 = Release|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TeeChartIpad.csproj
+	EndGlobalSection
+EndGlobal

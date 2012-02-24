@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.FlurryAnalyticsSample/ViewControllers/AnalyticsViewController.cs">
+    <Files>
+      <File FileName="../../../../../Projects/AddonPackages/FlurryAnalytics/sample/Xamarin.FlurryAnalyticsSample/Main.cs" Line="32" Column="3" />
+      <File FileName="../../../../../Projects/AddonPackages/FlurryAnalytics/sample/Xamarin.FlurryAnalyticsSample/Main.cs" Line="20" Column="1" />
+      <File FileName="../../../../../Projects/AddonPackages/FlurryAnalytics/sample/Xamarin.FlurryAnalyticsSample/Main.cs" Line="32" Column="3" />
+      <File FileName="../../../../../Projects/AddonPackages/FlurryAnalytics/sample/Xamarin.FlurryAnalyticsSample/Main.cs" Line="32" Column="3" />
+      <File FileName="Xamarin.FlurryAnalyticsSample/AppDelegate.cs" Line="20" Column="10" />
+      <File FileName="Xamarin.FlurryAnalyticsSample/ViewControllers/RootViewController.cs" Line="23" Column="2" />
+      <File FileName="Xamarin.FlurryAnalyticsSample/ViewControllers/AnalyticsViewController.cs" Line="55" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" />
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Title</Value>
+        </State>
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

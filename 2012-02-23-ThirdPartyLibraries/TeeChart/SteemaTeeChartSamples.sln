@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDrawing", "CustomDrawing\CustomDrawing.csproj", "{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TChartFeatures", "TChartFeatures\TChartFeatures.csproj", "{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeChartIpad", "TChartIPad\TeeChartIpad.csproj", "{2CD9A309-0E33-485E-A902-C34213F552B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhone.Build.0 = Release|iPhone
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2CD9A309-0E33-485E-A902-C34213F552B1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Release|iPhone.Build.0 = Release|iPhone
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{48791E6C-1037-49D8-BBAC-9E8CFB8AD00E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Release|iPhone.Build.0 = Release|iPhone
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BABE6CE5-DEDF-4A29-8E8D-7B507B98C694}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TChartFeatures\TChartFeatures.csproj
+	EndGlobalSection
+EndGlobal

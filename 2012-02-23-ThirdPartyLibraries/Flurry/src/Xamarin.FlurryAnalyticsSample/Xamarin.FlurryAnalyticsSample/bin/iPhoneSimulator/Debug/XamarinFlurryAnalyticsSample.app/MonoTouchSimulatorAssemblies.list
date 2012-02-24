@@ -1,0 +1,11 @@
+FlurryAnalytics.dll
+Mono.Security.dll
+MonoTouch.Dialog.dll
+System.Core.dll
+System.Json.dll
+System.Runtime.Serialization.dll
+System.ServiceModel.Web.dll
+System.ServiceModel.dll
+System.Xml.dll
+System.dll
+mscorlib.dll

@@ -1,0 +1,9 @@
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/bin/Debug/Tasky.Core.Anroid.dll.mdb
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/bin/Debug/Tasky.Core.Anroid.dll
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/bin/Debug/Tasky.Core.Anroid.apk
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/obj/Debug/android/bin/Tasky.Core.Anroid.apk
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/obj/Debug/R.cs.flag
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/bin/Debug/Tasky.Core.Anroid-Signed.apk
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/obj/Debug/uploadflags.txt
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/obj/Debug/Tasky.Core.Anroid.dll
+/Users/Clancey/Desktop/Samples/Sqlite/Tasky.Core.MD/obj/Debug/Tasky.Core.Anroid.dll.mdb

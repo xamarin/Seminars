@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tasky.Core.MD/DL/TaskDatabase.cs">
+    <Files>
+      <File FileName="../../../Projects/AddonPackages/FlurryAnalytics/sample/Xamarin.FlurryAnalyticsSample/Main.cs" Line="32" Column="3" />
+      <File FileName="../../../Projects/AddonPackages/FlurryAnalytics/sample/Xamarin.FlurryAnalyticsSample/Main.cs" Line="20" Column="1" />
+      <File FileName="../../../Projects/PdfSharing/PdfSharing.Android/Views/RoomPicker.cs" Line="71" Column="18" />
+      <File FileName="Tasky.Core.MD/DL/TaskDatabase.cs" Line="38" Column="4" />
+      <File FileName="Tasky.Core.MD/BL/Task.cs" Line="20" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Tasky.Core.MD" expanded="True">
+            <Node name="BL" expanded="True">
+              <Node name="Managers" expanded="True" />
+            </Node>
+            <Node name="DAL" expanded="True" />
+            <Node name="DL" expanded="True">
+              <Node name="TaskDatabase.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="TaskyDroid" expanded="True">
+            <Node name="Assets" expanded="True" />
+            <Node name="Resources" expanded="True" />
+            <Node name="Screens" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Title</Value>
+        </State>
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

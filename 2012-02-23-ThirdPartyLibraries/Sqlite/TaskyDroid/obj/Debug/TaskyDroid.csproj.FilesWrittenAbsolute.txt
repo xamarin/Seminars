@@ -1,0 +1,15 @@
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/bin/Debug/TaskyAndroid.dll.mdb
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/bin/Debug/TaskyAndroid.dll
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/bin/Debug/taskyandroid.taskyandroid.apk
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/android/bin/taskyandroid.taskyandroid.apk
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/res/values/strings.xml
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/res/layout/tasklistitem.axml
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/res/layout/homescreen.axml
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/res/layout/taskdetails.axml
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/res/drawable-hdpi/launcher.png
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/res/drawable-xhdpi/launcher.png
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/R.cs.flag
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/bin/Debug/taskyandroid.taskyandroid-Signed.apk
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/uploadflags.txt
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/TaskyAndroid.dll
+/Users/Clancey/Desktop/Samples/Sqlite/TaskyDroid/obj/Debug/TaskyAndroid.dll.mdb
