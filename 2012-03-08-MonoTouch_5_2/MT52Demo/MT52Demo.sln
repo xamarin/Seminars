@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT52Demo", "MT52Demo\MT52Demo.csproj", "{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT52DemoTests", "MT52DemoTests\MT52DemoTests.csproj", "{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Release|iPhone.Build.0 = Release|iPhone
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D8C6963F-12C9-42FF-A17A-3430F0D45F9A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Release|iPhone.Build.0 = Release|iPhone
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DE920F36-553F-4DCB-B5BC-9FEE75A4B4CE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MT52Demo\MT52Demo.csproj
+	EndGlobalSection
+EndGlobal
