@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>TaskCloud</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>task</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>Task Document</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.xamarin.samples.icloud.taskdoc</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>Images/Icons/57_icon.png</string>
+		<string>Images/Icons/114_icon.png</string>
+		<string>Images/Icons/72_icon.png</string>
+		<string>Images/Icons/29_icon.png</string>
+		<string>Images/Icons/58_icon.png</string>
+		<string>Images/Icons/50_icon.png</string>
+		<string>Images/Icons/512_icon.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.xamarin.samples.taskcloud</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>MinimumOSVersion</key>
+	<string>5.0</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<false/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.text</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Task Document</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.xamarin.samples.icloud.taskdoc</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<string>task</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
