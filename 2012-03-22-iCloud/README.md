@@ -17,9 +17,9 @@ Samples presented during the Xamarin iCloud with MonoTouch seminar on March 22, 
 References
 ----------
 
-* [Video](http://www.youtube.com/) TO COME
+* [Video](http://www.youtube.com/watch?v=t0MojsFRfjI)
 
-* [Slides](http://www.slideshare.net/Xamarin/) TO COME
+* [Slides](http://www.slideshare.net/Xamarin/using-icloud-with-monotouch)
 
 * [Other Xamarin Seminars](http://xamarin.com/seminars)
 
