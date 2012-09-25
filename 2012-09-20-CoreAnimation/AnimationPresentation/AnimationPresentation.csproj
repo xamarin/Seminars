@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1B9553E9-FC00-4110-958F-2027635B1218}</ProjectGuid>
+    <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Presentation.AnimationPresentation</RootNamespace>
+    <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
+    <AssemblyName>AnimationPresentation</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>True</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="monotouch" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Compile Include="TransitionsView.cs" />
+    <Compile Include="TransitionsViewController.cs" />
+    <Compile Include="ImplicitView.cs" />
+    <Compile Include="ImplicitLayer.cs" />
+    <Compile Include="ImplicitOptions.cs" />
+    <Compile Include="ExplicitBasic.cs" />
+    <Compile Include="ExplicitKeyframe.cs" />
+    <Compile Include="ExplicitCustom.cs" />
+    <Compile Include="DogViewController.cs" />
+    <Compile Include="PieChartLayer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dog.jpg" />
+    <Content Include="Cat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Presentation\Presentation.csproj">
+      <Project>{8685C7A5-C5C5-4501-A769-C5654AAC1A03}</Project>
+      <Name>Presentation</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
