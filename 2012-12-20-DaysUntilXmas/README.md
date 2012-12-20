@@ -1,4 +1,4 @@
-Samples from Xamarin Overview of MonoGame Seminar
-=================================================
+Xamarin Seminar on Days Until Xmas
+==================================
 
-You can find a selection of MonoGame samples from the [MonoGame Samples repo](https://github.com/CartBlanche/MonoGame-Samples)
+There were no code samples for this seminar but you can find the app links on [DaysUntilXmas.com](http://daysuntilxmas.com)
