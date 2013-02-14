@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp">
+        <TextView
+            android:text="Image n°: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:id="@+id/textView1"
+            android:textColor="#ff474747" />
+        <TextView
+            android:text="1"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:id="@+id/counterText" />
+    </LinearLayout>
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="16dp"
+        android:minHeight="400px">
+        <XaminarAnimations.FadeImageView
+            android:src="@drawable/pic1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pictureZone" />
+    </FrameLayout>
+    <Button
+        android:text="Alternate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchButton"
+        android:layout_gravity="center"
+        android:layout_marginTop="64dp" />
+</LinearLayout>

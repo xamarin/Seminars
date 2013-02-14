@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="170px"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginRight="16dp"
+        android:animateLayoutChanges="true"
+        android:id="@+id/animatedLayout">
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:id="@+id/firstLayout">
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/box">
+                <TextView
+                    android:text="This is the main content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center" />
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="wrap_content"
+            android:layout_height="1px"
+            android:layout_gravity="center"
+            android:id="@+id/secondLayout">
+            <FrameLayout
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/box"
+                android:layout_marginRight="32dp">
+                <ImageView
+                    android:src="@drawable/pic1"
+                    android:layout_width="118px"
+                    android:layout_height="118px"
+                    android:scaleType="centerCrop" />
+            </FrameLayout>
+            <FrameLayout
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/box"
+                android:layout_marginLeft="32dp">
+                <ImageView
+                    android:src="@drawable/pic2"
+                    android:layout_width="118px"
+                    android:layout_height="118px"
+                    android:scaleType="centerCrop" />
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        android:text="Switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchButton"
+        android:layout_gravity="center"
+        android:layout_marginTop="32dp" />
+</LinearLayout>
