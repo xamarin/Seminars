@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanAirshipPushNotifications", "UrbanAirshipPushNotifications\UrbanAirshipPushNotifications.csproj", "{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Release|iPhone.Build.0 = Release|iPhone
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D02D8078-5B02-40AD-AA5B-08F5CFA9CBA8}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = UrbanAirshipPushNotifications\UrbanAirshipPushNotifications.csproj
+	EndGlobalSection
+EndGlobal
